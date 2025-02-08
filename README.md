@@ -11,11 +11,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jrexmanley/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rexmanley/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 
 [<img align="left" alt="Rex | LinkedIn" width="22px" src="https://www.linkedin.com/in/rex-manley-600032343/" />][linkedin]
 
 
-
-[linkedin]: https://www.linkedin.com/in/rex-manley-600032343/
